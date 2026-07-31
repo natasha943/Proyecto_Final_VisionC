@@ -239,10 +239,3 @@ const int   COOLDOWN_F      = 200;   // Frames entre alertas
 - Ejemplo-11 Object Detection MobileNetV3 OpenCV — Ing. Vladimir Robles Bykbaev (UPS, 2026). Código base empleado como referencia estructural para la arquitectura de la app de escritorio C++.
 
 ---
-
-## 🔐 Notas de Seguridad
-
-- El token del Bot de Telegram **NO** debe subirse al repositorio. Usa variables de entorno o un archivo `.env` ignorado por `.gitignore`.
-- Agrega `models/*.pkl` y `dataset_final/` a `.gitignore` por el tamaño de los archivos.
-
----
